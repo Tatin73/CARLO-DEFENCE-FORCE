@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CARLOs Defence Force</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            color: #fff;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+        }
+        .header img {
+            width: 150px;
+        }
+        .header h1 {
+            font-size: 28px;
+            color: gold;
+        }
+        .header p {
+            font-style: italic;
+            color: gold;
+        }
+        .section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #222;
+            border-radius: 10px;
+        }
+        h2 {
+            color: gold;
+        }
+        .services, .values {
+            display: flex;
+            justify-content: space-between;
+        }
+        .services div, .values div {
+            width: 48%;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #111;
+        }
+        .footer p {
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <img src="../../CARLO73 LOGO.jpg" alt="Carlos Defence Force Logo">
+            <h1>CARLOS DEFENCE FORCE</h1>
+            <p>"Your Trusted Security Partner For Your Business and Family."</p>
+        </div>
+
+        <div class="section">
+            <h2>INTRODUCTION</h2>
+            <p>We are a security solutions provider specializing in high-level protection services.</p>
+            <p>With extensive experience in military, police, and private security sectors, our company ensures the safety of individuals, businesses, and assets.</p>
+        </div>
+
+        <div class="section">
+            <h2>ABOUT US</h2>
+            <p>We are a young proactive company. We are also a 100% Broad-Based Black Economic Empowered (BBBEE) owned company.</p>
+        </div>
+
+        <div class="section">
+            <h2>MISSION STATEMENT</h2>
+            <p>To deliver top-tier security services through military-grade discipline, advanced technology, and expert personnel—ensuring safety, reliability, and trust in every engagement.</p>
+        </div>
+
+        <div class="section">
+            <h2>VISION STATEMENT</h2>
+            <p>To become South Africa’s leading private security provider, recognized for professionalism, excellence, and proactive crime prevention.</p>
+        </div>
+
+        <div class="section services">
+            <div>
+                <h2>Security Services</h2>
+                <ul>
+                    <li>Static Guarding</li>
+                    <li>Armed Response</li>
+                    <li>VIP Protection</li>
+                    <li>Residential Patrols</li>
+                    <li>Crime Prevention</li>
+                </ul>
+            </div>
+            <div>
+                <h2>Sessions</h2>
+               
